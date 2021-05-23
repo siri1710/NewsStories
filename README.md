@@ -3,6 +3,8 @@
 Installation
 You need to have Java 8 JDK installed along with maven. Git
 
+I have used RestAssured and cucumber BDD framework to automate the test
+
 I have used IntelliJ Windows OS
 
 Cloning Git repositories
