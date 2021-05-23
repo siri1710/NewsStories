@@ -4,7 +4,7 @@ Feature: Test the Stories API
     Given User hits the stories endpoint
     When User adds the credentials and send request
     Then the http status code is 200
-    And Verify the content of the result
+    #And Verify the content of the result
 
 
   Scenario: Stories endpoint without passing headers
